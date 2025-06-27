@@ -40,27 +40,26 @@ This comprehensive guide bridges the gap between theory and practice, providing 
 - **Incident Response**: Using firewall logs for security investigation
 - **Performance Optimization**: Balancing security with network performance
 
-## 🛠️ Practical Tools & Templates
+## 🛠️ Free Sample Tools
 
-This repository includes companion materials:
+This repository includes **limited sample materials** to demonstrate the book's approach:
 
 ```
-├── checklists/
-│   ├── policy-review-checklist.md
-│   ├── compliance-audit-template.md
-│   └── incident-response-playbook.md
-├── templates/
-│   ├── firewall-documentation-template.md
-│   ├── risk-assessment-matrix.xlsx
-│   └── change-request-form.md
-├── examples/
-│   ├── case-study-financial-sector/
-│   ├── case-study-healthcare/
-│   └── case-study-manufacturing/
-└── scripts/
-    ├── log-analysis-helpers/
-    └── policy-comparison-tools/
+├── samples/
+│   ├── basic-policy-checklist.md      # Simple 10-point checklist
+│   ├── sample-documentation-template.md  # Basic template example
+│   └── case-study-excerpt.md          # One partial case study
+└── README.md
 ```
+
+**📚 Full Tool Collection Available in the Book:**
+- 50+ comprehensive checklists and templates
+- Complete case studies from 12 different industries  
+- Advanced risk assessment matrices and frameworks
+- Detailed remediation playbooks
+- Custom diagnostic scripts and automation helpers
+
+*The book contains 10x more tools and detailed methodologies than these free samples.*
 
 ## 🎓 Who This Book Is For
 
@@ -148,15 +147,36 @@ Manual Diagnosis Approach:
 - Identify new revenue opportunities through value-added services
 - Reduce false positives and improve customer satisfaction
 
-## 🛒 Get Your Copy
+## 🛒 Get Your Copy Now
 
-### Digital Editions Available
-- **Gumroad**: [Purchase PDF Edition](https://whitesentinel5.gumroad.com/l/njjhfc)
-- **Etsy**: [Purchase Physical & Digital Bundle](https://www.etsy.com/listing/4318732002/firewall-policy-diagnosis-and-inspection)
+### 📖 **"Firewall Policy Diagnosis and Inspection Guide"**
 
-### Pricing
-- Digital PDF: Competitive pricing for immediate access
-- Physical + Digital Bundle: Complete package with printed reference
+Transform your firewall security approach with expert methodologies that automation tools simply cannot provide.
+
+#### Available Now:
+- **📄 Gumroad (PDF)**: [**Instant Download →**](https://whitesentinel5.gumroad.com/l/njjhfc)
+- **📦 Etsy (Physical + Digital)**: [**Complete Bundle →**](https://www.etsy.com/listing/4318732002/firewall-policy-diagnosis-and-inspection)
+
+#### What You Get:
+✅ **200+ pages** of expert firewall analysis techniques  
+✅ **50+ ready-to-use** checklists and templates  
+✅ **12 detailed case studies** from real enterprise environments  
+✅ **Vendor-agnostic approach** works with any firewall platform  
+✅ **Compliance frameworks** for SOX, PCI-DSS, HIPAA, and more  
+
+#### Bonus Materials (Book Only):
+🎁 Advanced risk assessment matrices  
+🎁 Custom diagnostic script examples  
+🎁 Complete incident response playbooks  
+🎁 Multi-vendor environment management guides  
+
+**⚡ Limited Time**: Get comprehensive firewall expertise that typically takes years to develop.
+
+---
+
+### 💡 **Why This Book?**
+
+*"Most firewall 'audits' are just automated scans with fancy reports. Real security requires human expertise to understand context, business logic, and complex rule interactions. This book teaches you to see what the tools miss."*
 
 ## 🤝 Community & Support
 
