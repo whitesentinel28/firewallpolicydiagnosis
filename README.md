@@ -2,9 +2,8 @@
 
 > **A Comprehensive Manual for Security Professionals** - Systematic Approach to Manual Firewall Analysis
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Book Status](https://img.shields.io/badge/Book-Available-brightgreen)](https://whitesentinel5.gumroad.com/l/njjhfc)
-[![Etsy Store](https://img.shields.io/badge/Etsy-Purchase-orange)](https://www.etsy.com/listing/4318732002/firewall-policy-diagnosis-and-inspection)
+[![Get the Book](https://img.shields.io/badge/📖_Get_Book-Available_Now-brightgreen)](https://whitesentinel5.gumroad.com/l/njjhfc)
+[![Also on Etsy](https://img.shields.io/badge/📦_Etsy-Physical_Bundle-orange)](https://www.etsy.com/listing/4318732002/firewall-policy-diagnosis-and-inspection)
 
 ## 📖 About This Book
 
