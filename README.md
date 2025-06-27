@@ -46,8 +46,7 @@ This repository includes **limited sample materials** to demonstrate the book's 
 ```
 ├── samples/
 │   ├── basic-policy-checklist.md      # Simple 10-point checklist
-│   ├── sample-documentation-template.md  # Basic template example
-│   └── case-study-excerpt.md          # One partial case study
+│   ├── sFirewall Audit Report Template_sample.xlsx  # Basic template example
 └── README.md
 ```
 
